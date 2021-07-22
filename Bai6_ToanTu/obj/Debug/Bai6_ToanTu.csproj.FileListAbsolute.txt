@@ -1,0 +1,6 @@
+/Users/nguyendinhhuong/Projects/Bai6_ToanTu/Bai6_ToanTu/bin/Debug/Bai6_ToanTu.exe
+/Users/nguyendinhhuong/Projects/Bai6_ToanTu/Bai6_ToanTu/bin/Debug/Bai6_ToanTu.pdb
+/Users/nguyendinhhuong/Projects/Bai6_ToanTu/Bai6_ToanTu/obj/Debug/Bai6_ToanTu.csproj.AssemblyReference.cache
+/Users/nguyendinhhuong/Projects/Bai6_ToanTu/Bai6_ToanTu/obj/Debug/Bai6_ToanTu.csproj.CoreCompileInputs.cache
+/Users/nguyendinhhuong/Projects/Bai6_ToanTu/Bai6_ToanTu/obj/Debug/Bai6_ToanTu.exe
+/Users/nguyendinhhuong/Projects/Bai6_ToanTu/Bai6_ToanTu/obj/Debug/Bai6_ToanTu.pdb
